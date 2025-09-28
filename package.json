@@ -1,0 +1,23 @@
+{
+  "name": "incubyteassessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarshtripathi28/incubyteAssessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/utkarshtripathi28/incubyteAssessment/issues"
+  },
+  "homepage": "https://github.com/utkarshtripathi28/incubyteAssessment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.5.2"
+  }
+}
